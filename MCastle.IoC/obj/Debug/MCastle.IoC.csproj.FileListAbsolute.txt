@@ -1,0 +1,7 @@
+D:\MCastle\MCastle.IoC\bin\Debug\MCastle.IoC.dll
+D:\MCastle\MCastle.IoC\bin\Debug\MCastle.IoC.pdb
+D:\MCastle\MCastle.IoC\bin\Debug\Castle.Core.dll
+D:\MCastle\MCastle.IoC\bin\Debug\Castle.Windsor.dll
+D:\MCastle\MCastle.IoC\obj\Debug\MCastle.IoC.dll
+D:\MCastle\MCastle.IoC\obj\Debug\MCastle.IoC.pdb
+D:\MCastle\MCastle.IoC\bin\Debug\Castle.Windsor.xml

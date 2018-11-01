@@ -1,0 +1,4 @@
+D:\MCastle\MCastle.Domain\bin\Debug\MCastle.Domain.dll
+D:\MCastle\MCastle.Domain\bin\Debug\MCastle.Domain.pdb
+D:\MCastle\MCastle.Domain\obj\Debug\MCastle.Domain.dll
+D:\MCastle\MCastle.Domain\obj\Debug\MCastle.Domain.pdb

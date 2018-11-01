@@ -1,0 +1,4 @@
+D:\MCastle\MCastle.Svc\bin\Debug\MCastle.Svc.dll
+D:\MCastle\MCastle.Svc\bin\Debug\MCastle.Svc.pdb
+D:\MCastle\MCastle.Svc\obj\Debug\MCastle.Svc.dll
+D:\MCastle\MCastle.Svc\obj\Debug\MCastle.Svc.pdb

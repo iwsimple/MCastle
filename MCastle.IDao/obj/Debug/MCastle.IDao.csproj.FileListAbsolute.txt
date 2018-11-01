@@ -1,0 +1,7 @@
+D:\MCastle\MCastle.IDao\bin\Debug\MCastle.IDao.dll
+D:\MCastle\MCastle.IDao\bin\Debug\MCastle.IDao.pdb
+D:\MCastle\MCastle.IDao\bin\Debug\MCastle.Domain.dll
+D:\MCastle\MCastle.IDao\bin\Debug\MCastle.Domain.pdb
+D:\MCastle\MCastle.IDao\obj\Debug\MCastle.IDao.csprojResolveAssemblyReference.cache
+D:\MCastle\MCastle.IDao\obj\Debug\MCastle.IDao.dll
+D:\MCastle\MCastle.IDao\obj\Debug\MCastle.IDao.pdb

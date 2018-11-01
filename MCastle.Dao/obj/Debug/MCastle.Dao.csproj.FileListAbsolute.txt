@@ -1,0 +1,9 @@
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.Dao.dll
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.Dao.pdb
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.Domain.dll
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.IDao.dll
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.Domain.pdb
+D:\MCastle\MCastle.Dao\bin\Debug\MCastle.IDao.pdb
+D:\MCastle\MCastle.Dao\obj\Debug\MCastle.Dao.csprojResolveAssemblyReference.cache
+D:\MCastle\MCastle.Dao\obj\Debug\MCastle.Dao.dll
+D:\MCastle\MCastle.Dao\obj\Debug\MCastle.Dao.pdb

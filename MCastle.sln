@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MCastle.Web", "MCastle.Web\", "{B1C75E3E-3D32-4A69-BA5D-1B10C85AB51A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{c4b9ba41-9835-47b3-8144-5199db57098a}|MCastle.Dao.dll;{265a12e7-97fb-4286-a27b-58eb98e78f97}|MCastle.Domain.dll;{75f57ecd-7388-4b5b-991e-b529e07b556d}|MCastle.IDao.dll;{61413ea9-8160-4399-b44a-c2b5fc6f1cd1}|MCastle.IoC.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_45178"
+		Debug.AspNetCompiler.PhysicalPath = "MCastle.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_45178\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_45178"
+		Release.AspNetCompiler.PhysicalPath = "MCastle.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_45178\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "45178"
+		SlnRelativePath = "MCastle.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.Domain", "MCastle.Domain\MCastle.Domain.csproj", "{265A12E7-97FB-4286-A27B-58EB98E78F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.IDao", "MCastle.IDao\MCastle.IDao.csproj", "{75F57ECD-7388-4B5B-991E-B529E07B556D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.Dao", "MCastle.Dao\MCastle.Dao.csproj", "{C4B9BA41-9835-47B3-8144-5199DB57098A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.ISvc", "MCastle.ISvc\MCastle.ISvc.csproj", "{AFBD95A8-E098-4B05-BADA-B1A72409D337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.Svc", "MCastle.Svc\MCastle.Svc.csproj", "{EAA47488-C1B0-436C-90F3-B949DB016313}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCastle.IoC", "MCastle.IoC\MCastle.IoC.csproj", "{61413EA9-8160-4399-B44A-C2B5FC6F1CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C75E3E-3D32-4A69-BA5D-1B10C85AB51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C75E3E-3D32-4A69-BA5D-1B10C85AB51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C75E3E-3D32-4A69-BA5D-1B10C85AB51A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C75E3E-3D32-4A69-BA5D-1B10C85AB51A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{265A12E7-97FB-4286-A27B-58EB98E78F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{265A12E7-97FB-4286-A27B-58EB98E78F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{265A12E7-97FB-4286-A27B-58EB98E78F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{265A12E7-97FB-4286-A27B-58EB98E78F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F57ECD-7388-4B5B-991E-B529E07B556D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F57ECD-7388-4B5B-991E-B529E07B556D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F57ECD-7388-4B5B-991E-B529E07B556D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F57ECD-7388-4B5B-991E-B529E07B556D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B9BA41-9835-47B3-8144-5199DB57098A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B9BA41-9835-47B3-8144-5199DB57098A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B9BA41-9835-47B3-8144-5199DB57098A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B9BA41-9835-47B3-8144-5199DB57098A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBD95A8-E098-4B05-BADA-B1A72409D337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBD95A8-E098-4B05-BADA-B1A72409D337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBD95A8-E098-4B05-BADA-B1A72409D337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBD95A8-E098-4B05-BADA-B1A72409D337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA47488-C1B0-436C-90F3-B949DB016313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA47488-C1B0-436C-90F3-B949DB016313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA47488-C1B0-436C-90F3-B949DB016313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA47488-C1B0-436C-90F3-B949DB016313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61413EA9-8160-4399-B44A-C2B5FC6F1CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61413EA9-8160-4399-B44A-C2B5FC6F1CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61413EA9-8160-4399-B44A-C2B5FC6F1CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61413EA9-8160-4399-B44A-C2B5FC6F1CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
