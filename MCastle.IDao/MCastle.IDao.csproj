@@ -40,6 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IManualDao\bbt.cs" />
+    <Compile Include="IManualDao\extendDao.cs" />
     <Compile Include="IManualDao\IManualDao.cs" />
     <Compile Include="ITestDao\ITestDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace MCastle.IDao
 {
-    public interface IManualDao
+    public class extendDao
     {
-        string ReturnString(string text);
+        protected string b;
 
-        string get();
+        public string p="2";
+        protected void Test()
+        {
+
+        }
     }
 }

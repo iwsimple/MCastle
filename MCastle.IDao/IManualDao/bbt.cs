@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace MCastle.IDao
 {
-    public interface IManualDao
+    public class bbt
     {
-        string ReturnString(string text);
-
-        string get();
+        public void set() {
+            extendDao ex = new extendDao();
+        }
     }
 }

@@ -40,8 +40,19 @@ namespace MCastle.IoC
             }
         }
 
+        public static IocContainer Instances()
+        {
+            lock (_lock)
+            {
+                if (_install == null)
+                    _install = new IocContainer();
+                return _install;
+            }
+        }
+
         public static IWindsorContainer GetContainer()
         {
+            Instances();
             return Instance._windsor;
         }
 
