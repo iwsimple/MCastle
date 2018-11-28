@@ -36,9 +36,18 @@ namespace MCastle.Domain
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return new AstickEnumerator(this);
+            //return new AstickEnumerator(this);
+
+            //yield关键字，代表此方法是一个迭代器，编译器自动实现一个迭代器
+            for (int i = 0; i < count; i++)
+            {
+                yield return astickArray[i];
+            }
         }
 
+        /// <summary>
+        /// 迭代器
+        /// </summary>
         public class AstickEnumerator : IEnumerator
         {
             public int index = -1;
